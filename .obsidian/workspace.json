@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "d89e0fa050e01da3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c89c7ea815dfe20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b282405583c736aa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "aecc068931a08a58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra Linear/Sistemas Lineares.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d52cd488ce3982a",
+    "type": "split",
+    "children": [
+      {
+        "id": "02a7aa4254c0d5b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "510ffcc1af26241f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8dce0b7db8345c9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#CalculoA",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd2dd1c775e6b5a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58d8f0f60ab2d0cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f637e3873bc61a58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb7344904ecd0b40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algebra Linear/Sistemas Lineares.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46ea3e0c6dc704a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algebra Linear/Sistemas Lineares.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fe1f1a28ce630a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a842036f04617929",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algebra Linear/Sistemas Lineares.md"
+              }
+            }
+          },
+          {
+            "id": "d9c9ba1a67843100",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "701e88145a1c6d06",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "510ffcc1af26241f",
+  "lastOpenFiles": [
+    "Algebra Linear/Sistemas Lineares.md",
+    "Algebra Linear",
+    "Fisica/Movimento e velocidade.md",
+    "Arquivos/Princípios de Física 1 - Mecânica Clássica e Relatividade - Serway.pdf",
+    "Arquivos/Princípios de Física 1 - Mecânica Clássica e Relatividade - Serway 1.pdf",
+    "Calculo A/Integrais definidos.md",
+    "Calculo A/Primitivas.md",
+    "Fisica",
+    "Calculo A/Integrais.md",
+    "Calculo A/Integrais indefinidos.md",
+    "Calculo A/Funções Hiperbolicas.md",
+    "Calculo A/Listas de exercicios.md",
+    "Calculo A/Limite.md",
+    "Arquivos/Retangulos no grafico.jpg",
+    "Arquivos/Curva para integrar.jpg",
+    "202311180821.md",
+    "Calculo A/Concavidade.md",
+    "Calculo A/Teste da Segunda Derivada.md",
+    "Calculo A/Teste da função crescente e decrescente.md",
+    "Calculo A/Teste da Primeira Derivada.md",
+    "Calculo A/Máximos e Mínimos.md",
+    "Calculo A/Esboço de gráficos.md",
+    "Arquivos/Pasted image 20230925232412.png",
+    "Arquivos/Pasted image 20230925232217.png",
+    "Calculo A/Assíntotas.md",
+    "Calculo A/Teorema do Valor Médio.md",
+    "Calculo A/Formas Indetermindas.md",
+    "Arquivos/Pasted image 20230925212130.png",
+    "Arquivos",
+    "Calculo A/Lei de L'hopital.md",
+    "Calculo A/Derivadas.md",
+    "Calculo A/Teorema de Rolle.md",
+    "Arquivos/Pasted image 20230925212118.png",
+    "Calculo A/Aproximação Linear.md",
+    "Templates/Note Template.md",
+    "Vetores e Geometria Analitica/Reta.md",
+    "Programação Funcional/Listas de Exercicio.md",
+    "Templates",
+    "Vetores e Geometria Analitica/Arquivos/Pasted image 20230624171719.png",
+    "Vetores e Geometria Analitica/Arquivos/Pasted image 20230624171716.png",
+    "Vetores e Geometria Analitica/Arquivos/ListaDouglasQ4L2.png",
+    "Vetores e Geometria Analitica/Arquivos/GraficoVetores.png",
+    "Vetores e Geometria Analitica/Arquivos",
+    "Untitled.canvas",
+    "Fundamentos Elementares da Matematica",
+    "Vetores e Geometria Analitica",
+    "Princípios de programação"
+  ]
+}
