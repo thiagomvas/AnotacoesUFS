@@ -1,6 +1,4 @@
 # Aproximação Linear
-Criado em: 2023-09-25 : 20:45
-
 ## Definição
 Dada uma função $f(x)$ [[Derivadas|derivável]] em $x = a$, podemos escrever a reta tangente à $f(a)$ no ponto $(a, f(a))$ por
 $$L(x) = f'(a) \cdot (x-a) +f(a)$$

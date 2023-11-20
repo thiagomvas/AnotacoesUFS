@@ -4,32 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6c89c7ea815dfe20",
+        "id": "29849da196abc763",
         "type": "tabs",
         "children": [
           {
-            "id": "b282405583c736aa",
+            "id": "f34d910db8c644af",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "aecc068931a08a58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra Linear/Sistemas Lineares.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,6 +60,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "1a7260a66a6a8565",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra Linear/Sistemas Lineares.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra Linear/Sistemas Lineares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algebra Linear/Sistemas Lineares.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,12 +148,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,6 +168,7 @@
   },
   "active": "510ffcc1af26241f",
   "lastOpenFiles": [
+    "Calculo A/Aproximação Linear.md",
     "Algebra Linear/Sistemas Lineares.md",
     "Algebra Linear",
     "Fisica/Movimento e velocidade.md",
@@ -212,7 +202,6 @@
     "Calculo A/Derivadas.md",
     "Calculo A/Teorema de Rolle.md",
     "Arquivos/Pasted image 20230925212118.png",
-    "Calculo A/Aproximação Linear.md",
     "Templates/Note Template.md",
     "Vetores e Geometria Analitica/Reta.md",
     "Programação Funcional/Listas de Exercicio.md",
